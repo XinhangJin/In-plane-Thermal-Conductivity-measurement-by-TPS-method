@@ -16,6 +16,12 @@ Contact mail:xinhang.jin@su.se
 
 Dr. Xixi Luo, Changan University, China 
 Contact mail:xixiluo@chd.edu.cn
+
+## Acknowledgements
+
+Thanks Prof. Aji P. Mathew from Stockholm University as the supervisor of this porject. 
+
+The developer gratefully acknowledge the financial support provided by the FLAG-ERA JTC 2023 program. This work was carried out within the framework of the FLAG-ERA Joint Transnational Call 2023, which has significantly contributed to the advancement of our research.
  
 ## 🚀 How to use it
 First, obtain the time–temperature data from the Hot Disk TPS 2500S instrument.
@@ -71,4 +77,5 @@ git clone https://github.com/yourname/TPS-ThermalConductivity-ML.git
 cd TPS-ThermalConductivity-ML
 
 # Install dependencies
+
 pip install -r requirements.txt
