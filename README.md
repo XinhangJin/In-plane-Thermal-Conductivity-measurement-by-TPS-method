@@ -50,6 +50,7 @@ python main.py --data ./data/sample1.xlsx \
   --P0 0.1 --t_end 5
 
 --data ./data/example.xlsx --Cv 4.0e6 --h 200e-6 --r 2e-3 --P0 0.1 --t_end 5
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/14625d66-69b0-4bcf-8a88-179b507b6dc9" />
 
 ## 🚀 Key Features
 - Two-stage learning pipeline: **system error correction → residual compensation**
@@ -79,3 +80,4 @@ cd TPS-ThermalConductivity-ML
 # Install dependencies
 
 pip install -r requirements.txt
+
